@@ -1,4 +1,4 @@
-# wobbling-zipper-toy
+# Wobbling Zipper Toy
 ACNH inspired 'Wobbling Zipper Toy' easter egg to 3D print
 
 I  hope this little model will bring a smile to someone. I designed a printable version of the 'Wobbling Zipper Toy' based on the Animal Crossing New Horizons Bunny Day (Easter) event. This is the prize given by Zipper T for completing the event!
@@ -15,7 +15,8 @@ https://cults3d.com/en/3d-model/various/animal-crossing-wobbling-zipper-toy-east
 
 ![stl view](./assets/Screenshot.jpg)
 
-3D PRINTING SETTINGS
+## 3D PRINTING SETTINGS
+
 The print works well in white PLA, 0.4mm nozzle and 0.12mm layer height. Use a brim to keep the parts in place while printing and then remove carefully so as not to damage the locating lugs. Each half shell is printed open end face down. It can be printed without supports with small layer heights (0.08 or 0.12) or add supports if needed for 0.2mm layers due to some overhangs at 60degrees.
 
 The 2 parts should gently clip together if the printer is tuned, test print the first 7mm of the top and bottom to check the fit and use horizontal expansion to adjust fit in the slicer.
