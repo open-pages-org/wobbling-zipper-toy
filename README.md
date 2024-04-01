@@ -13,7 +13,7 @@ The 3D file (.stl) is avaialble for download to print at home, and can be printe
 
 https://cults3d.com/en/3d-model/various/animal-crossing-wobbling-zipper-toy-easter-egg
 
-![stl view](./assets/screenshot.jpg)
+![stl view](./assets/Screenshot.jpg)
 
 3D PRINTING SETTINGS
 The print works well in white PLA, 0.4mm nozzle and 0.12mm layer height. Use a brim to keep the parts in place while printing and then remove carefully so as not to damage the locating lugs. Each half shell is printed open end face down. It can be printed without supports with small layer heights (0.08 or 0.12) or add supports if needed for 0.2mm layers due to some overhangs at 60degrees.
