@@ -7,7 +7,7 @@ Print this egg at home and hide Cadbury Creme Egg or Reeses Egg inside (or scale
 The Wobbling Zipper Toy is the right size to contain a Cadbury Creme Egg. If a weight is added inside the bottom shell section (use a lump of blue tack) the Zipper will wobble and role on a hard surface just like in the video below.
 
 
-[![Demo Video](https://i.ytimg.com/vi/fwrLaE-8-c8/maxresdefault.jpg)](https://www.youtube.com/watch?v=fwrLaE-8-c8 "Demo Video")
+[![WobblingZipper Video](https://i.ytimg.com/vi/fwrLaE-8-c8/maxresdefault.jpg)](https://www.youtube.com/watch?v=fwrLaE-8-c8 "Wobbling Zipper Video")
 
 The 3D file (.stl) is avaialble for download to print at home, and can be printed as many times as you like for your own family but not for resale. I have included photos to show how it can be painted. Hopefully you can improve on my basic brush work!
 
