@@ -1,5 +1,5 @@
 # Wobbling Zipper Toy
-ACNH inspired 'Wobbling Zipper Toy' easter egg to 3D print
+Animal Crossing New Horizons (ACNH) inspired 'Wobbling Zipper Toy' easter egg to 3D print
 
 I  hope this little model will bring a smile to someone. I designed a printable version of the 'Wobbling Zipper Toy' based on the Animal Crossing New Horizons Bunny Day (Easter) event. This is the prize given by Zipper T for completing the event!
 Print this egg at home and hide Cadbury Creme Egg or Reeses Egg inside (or scale it larger for Kinder etc) or just enjoy printing and painting this new model to decorate your home.
